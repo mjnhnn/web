@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+#wapper{
+	width: 100%;
+	height: auto;
+}
+#header:hover{
+	background-color: #333;
+}
+#header{
+	background-image: linear-gradient(0,rgba(255,180,0,0.5),#eee);
+	width: 100%;
+	height: 60px;
+	/*position: fixed;
+*/
+	/*box-sizing: border-box;
+	border: 2px dashed #000;
+	background-clip: padding-box;*/
+}
+.contentone{
+	margin-top: 40px;
+}
+.logo{
+	padding-top: 7px;
+	text-decoration: none;
+	list-style: none;
+	
+
+}
+
+.logo ul{
+	text-decoration: none;
+}
+.logo ul li {
+	display: inline;
+	list-style: none;
+	
+}
+
+.logo ul li a{
+	color:#333;
+	margin-left: 30px;
+	padding-top: 30px;
+	border: yellow;
+	text-decoration: none;
+	hover:red;
+}
+/*ul li{
+	padding-top: 30px;
+	
+	
+}*/
+.topright:hover{
+
+}
+.topright{
+	margin-top: -35px;
+}
+.topright ul
+{
+	list-style-type: none;
+	
+	padding-top: 0px;
+    margin-left: 70%;
+}
+.topright ul li a {
+  text-decoration: none;
+  color: #red;
+  margin-left: 5%;
+  display: inherit;
+  hover:red;
+  font-style: bold;
+
+
+}
+.topright ul li  {
+ 
+  display: inline;
+ 
+}
+#contentone{
+	width: 100%;
+	height: 400px;
+	 background: linear-gradient(180deg, rgba(111,89,0,0.5), #ccc),  url("../../testweb/img/anhsieuxe5.jpg");
+	
+	 background-repeat: no-repeat;
+}
+.textone{
+	margin-left: 65px;
+	padding-top: 27px;
+	color: white;
+
+}
+.loginbox{
+	width: 280px;
+	height: 320px;
+	background: linear-gradient(180deg,rgba(250,233,0,0.5),#333);
+	margin-left: 60%;
+    margin-top: -204px;
+	box-sizing: border-box;
+}
+.buttonlogin{
+	
+	border: 3px solid #333;
+}
+
+.one{
+	width: 250px;
+	height: 20px;
+	margin-left: 10px;
+	border: 1px solid #333;
+}
+.loginbox h1{
+	color: white;
+ 	border: red;
+}
+.loginbox h2{
+	color: white;
+ 	
+}
+.contenttwo{
+	width: 100%;
+	height: 470px;
+	background-image: linear-gradient(0,rgba(183,220,45,0.5),#333);
+	margin-top: -23px;
+	/*background-color: #BFBBBB;*/
+}
+.anhcontenttwo{
+	word-spacing: 100px;
+
+}
+.submit:hover{
+	background-color: #eee;
+}
+.contenttwo h1{
+	padding-top: 40px;
+}

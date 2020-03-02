@@ -1,0 +1,34 @@
+.all{
+	width: 100%;
+	height: auto;
+}
+.header{
+	width:100%;
+	height: 250px;
+}
+.header-top{
+	width: 100%;
+	height: 36px;
+	background-color:  #ff789e;
+	display: flex;
+	justify-content: space-between;
+
+
+}
+.header-ul{
+	list-style: none;
+}
+
+.header-listitem{
+	color: white;
+	margin-left: 20px;
+text-decoration: none;
+
+}
+.daylalogo{
+
+	color: white;
+	margin-left: 20px;
+text-decoration: none;
+
+}
